@@ -18,4 +18,3 @@
 
 Ссылка на мой [GitHub](https://github.com/Shiverz1)
 
-theme: jekyll-theme-midnight
