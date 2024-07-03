@@ -17,3 +17,5 @@
 ![Мое любимое аниме](https://img.razrisyika.ru/kart/94/375782-luffi-34.jpg)
 
 Ссылка на мой [GitHub](https://github.com/Shiverz1)
+
+theme: jekyll-theme-midnightv
